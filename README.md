@@ -1,2 +1,4 @@
 # Insights-for-Consumer-Goods-Domain
- Advanced SQL Data Analytics project based on AtliQ Hardwares. Solves real-world business problems using complex SQL queries, CTEs, subqueries, joins, window functions, aggregations, CASE statements, and date functions to analyze sales, products, customers, markets, and generate actionable business insights.
+
+Advanced SQL Data Analytics project for AtliQ Hardwares, focused on answering ad-hoc business questions raised by management. Uses CTEs, subqueries, joins, window functions, aggregations, CASE statements, and date functions to generate actionable insights across sales, products, customers, and markets.
+
