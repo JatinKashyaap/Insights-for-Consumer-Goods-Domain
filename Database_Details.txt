@@ -1,0 +1,6 @@
+Connection Name :-localhostconsumer
+Connection Method :- Standard (TCP/IP)
+Hostname:- 127.0.0.1
+Port: 3306
+Username:-consumerinsights
+Password-Viratkohli@73474
