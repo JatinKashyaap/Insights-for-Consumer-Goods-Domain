@@ -307,35 +307,47 @@ The results identify the strongest products within each division and can support
 
 ---
 
+Here’s a cleaner GitHub README version that explains how users can connect to the **remote database using credentials provided in the repository’s Notepad/text file**:
+
 ## ▶️ How to Run This Project
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/JatinKashyaap/Insights-for-Consumer-Goods-Domain.git
 ```
 
-### 2. Navigate to the project directory
+### 2. Navigate to the Project Directory
 
 ```bash
 cd Insights-for-Consumer-Goods-Domain
 ```
 
-### 3. Load the source data
+### 3. Connect to the Remote Database
 
-Import the project dataset into your preferred relational SQL database and verify the required customer, product, sales, market, and manufacturing tables.
+Open the **database credentials Notepad (`.txt`) file** provided in the repository.
 
-### 4. Execute the SQL queries
+Use the mentioned **Host Name, Port, Username, Password, and Database Name** to establish a connection to the remote database through your SQL client (such as MySQL Workbench).
 
-Run the SQL files in the `sql_queries/` folder individually to answer each management ad-hoc request.
+Once connected successfully, you can directly access the project database and execute the SQL queries without importing the dataset locally.
 
-### 5. Review the outputs
+> **Note:** Refer to the credentials file carefully while configuring the remote database connection.
 
-Compare the query results with:
+### 4. Execute the SQL Queries
+
+Open and execute the SQL files available in the `sql_queries/` folder. Each query is designed to answer a specific **ad-hoc business request raised by AtliQ Hardwares management**.
+
+### 5. Review the Query Outputs
+
+After executing the queries, compare and explore the results with the prepared visualizations available in:
 
 ```text
 visuals/Visuals for Query Resuls.xlsx
 ```
+
+These outputs help translate the SQL query results into meaningful and actionable business insights.
+
+**Important:** If this is a public GitHub repository, avoid committing real database usernames/passwords in a `.txt` file. A safer approach is to provide a `credentials.example.txt` or `.env.example` with placeholders and share actual credentials privately.
 
 ### 6. Review the business presentation
 
