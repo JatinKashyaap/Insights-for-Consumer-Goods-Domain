@@ -77,12 +77,13 @@ The business questions in this project require analytical techniques such as:
 
 ## 📁 Project Structure
 
-A clean repository structure for this project is:
+The repository is organized to keep the **SQL queries, remote database access details, query-result visualizations, and final presentation** easy to navigate.
 
 ```text
 Insights-for-Consumer-Goods-Domain/
 │
 ├── README.md
+│   └── Project overview, objectives, SQL concepts, and execution guide
 │
 ├── sql_queries/
 │   ├── request_01_apac_markets.sql
@@ -96,15 +97,31 @@ Insights-for-Consumer-Goods-Domain/
 │   ├── request_09_channel_contribution.sql
 │   └── request_10_top_products_by_division.sql
 │
-├── data/
-│   └── source_data/
+├── database/
+│   └── database_credentials.txt
+│       └── Remote database connection details
 │
 ├── visuals/
 │   └── Visuals for Query Resuls.xlsx
+│       └── Excel-based visualizations of SQL query results
 │
 └── presentation/
     └── Ad_hoc_Analysis_Presentation.pdf
+        └── Final presentation containing ad-hoc insights and recommendations
 ```
+
+### 📌 Folder Overview
+
+* **`sql_queries/`** – Contains 10 SQL files addressing different ad-hoc business requests raised by AtliQ Hardwares management using advanced SQL techniques.
+
+* **`database/`** – Contains the connection details required to access the remote database and execute the queries.
+
+* **`visuals/`** – Contains the Excel workbook used to present and visualize the results generated from SQL queries.
+
+* **`presentation/`** – Contains the final analysis presentation summarizing key findings, business insights, and recommendations.
+
+* **`README.md`** – Provides complete documentation of the project, including the business problem, SQL approach, repository structure, and instructions for running the analysis.
+
 
 > Update the folder names above if your repository uses a different structure.
 
