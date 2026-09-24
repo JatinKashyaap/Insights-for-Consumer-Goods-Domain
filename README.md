@@ -328,16 +328,14 @@ Here’s a cleaner GitHub README version that explains how users can connect to 
 
 ## ▶️ How to Run This Project
 
-### 1. Clone the Repository
+1.**Navigate to the folder where you want to download the repository:**
+
+2.**Inside the folder < Right Click < Show More Options < Open Git Bash here** [ Note:- You Must have the Git Installed in order to clone this repository]
+
+3.**Inside the git terminal window copy the following code below in order to Clone or download this repository.**
 
 ```bash
-git clone https://github.com/JatinKashyaap/Insights-for-Consumer-Goods-Domain.git
-```
 
-### 2. Navigate to the Project Directory
-
-```bash
-cd Insights-for-Consumer-Goods-Domain
 ```
 
 ### 3. Connect to the Remote Database
