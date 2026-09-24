@@ -8,8 +8,8 @@ This project uses **SQL-driven business analysis** to answer 10 ad-hoc requests 
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Business Problem](#business-problem)
+- [Overview](##overview)
+- [Business Problem](##business-problem)
 - [Tools & Technologies](#tools--technologies)
 - [Project Structure](#project-structure)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
