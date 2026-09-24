@@ -79,36 +79,36 @@ The business questions in this project require analytical techniques such as:
 
 The repository is organized to keep the **SQL queries, remote database access details, query-result visualizations, and final presentation** easy to navigate.
 
+## 📂 Project Structure
+
 ```text
 Insights-for-Consumer-Goods-Domain/
 │
-├── README.md
-│   └── Project overview, objectives, SQL concepts, and execution guide
+├── 📁 Presentation File
+│   └── Project presentation and business insights deck
 │
-├── sql_queries/
-│   ├── request_01_apac_markets.sql
-│   ├── request_02_product_growth.sql
-│   ├── request_03_product_count_by_segment.sql
-│   ├── request_04_segment_product_growth.sql
-│   ├── request_05_manufacturing_cost.sql
-│   ├── request_06_customer_discounts.sql
-│   ├── request_07_monthly_gross_sales.sql
-│   ├── request_08_quarterly_sold_quantity.sql
-│   ├── request_09_channel_contribution.sql
-│   └── request_10_top_products_by_division.sql
+├── 📁 Query Results Visuals
+│   └── Screenshots and visual outputs generated from SQL query results
 │
-├── database/
-│   └── database_credentials.txt
-│       └── Remote database connection details
+├── 📁 SQL Queries
+│   └── SQL scripts used for data extraction, analysis, and reporting
 │
-├── visuals/
-│   └── Visuals for Query Resuls.xlsx
-│       └── Excel-based visualizations of SQL query results
+├── 📄 Database_Details.txt
+│   └── Database schema, table descriptions, and connection details
 │
-└── presentation/
-    └── Ad_hoc_Analysis_Presentation.pdf
-        └── Final presentation containing ad-hoc insights and recommendations
+└── 📄 README.md
+    └── Project documentation and setup guide
 ```
+
+### Folder Description
+
+| Folder/File | Description |
+|-------------|-------------|
+| **Presentation File** | Contains the final presentation highlighting key business insights and recommendations. |
+| **Query Results Visuals** | Stores screenshots, charts, and visual outputs generated from SQL analyses. |
+| **SQL Queries** | Includes all SQL scripts used for data exploration, KPI calculation, and business analysis. |
+| **Database_Details.txt** | Contains information about the database structure, tables, and relationships used in the project. |
+| **README.md** | Provides project overview, objectives, methodology, and usage instructions. |
 
 ### 📌 Folder Overview
 
