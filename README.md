@@ -335,7 +335,7 @@ Here’s a cleaner GitHub README version that explains how users can connect to 
 3.**Inside the git terminal window copy the following code below in order to Clone or download this repository.**
 
 ```bash
-
+https://github.com/JatinKashyaap/Insights-for-Consumer-Goods-Domain.git
 ```
 
 ### 3. Connect to the Remote Database
