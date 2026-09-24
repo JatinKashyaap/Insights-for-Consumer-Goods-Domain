@@ -8,15 +8,35 @@ This project uses **SQL-driven business analysis** to answer 10 ad-hoc requests 
 
 ## 📌 Table of Contents
 
-- [Overview](#Overview)
-- [Business Problem](#Business--Problem)
-- [Tools & Technologies](#tools--technologies)
-- [Project Structure](#project-structure)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Problem Statements & Key Findings](#problem-statements--key-findings)
-- [How to Run This Project](#how-to-run-this-project)
-- [Final Recommendations](#final-recommendations)
-- [Author & Contact](#author--contact)
+<a id="overview"></a>
+## 🔎 Overview
+
+<a id="business-problem"></a>
+## 💼 Business Problem
+
+<a id="tools--technologies"></a>
+## 🛠️ Tools & Technologies
+
+<a id="project-structure"></a>
+## 📁 Project Structure
+
+<a id="exploratory-data-analysis-eda"></a>
+## 📈 Exploratory Data Analysis (EDA)
+
+<a id="problem-statements--key-findings"></a>
+## 🧩 Problem Statements & Key Findings
+
+<a id="how-to-run-this-project"></a>
+## ▶️ How to Run This Project
+
+<a id="final-recommendations"></a>
+## 🎯 Final Recommendations
+
+<a id="author--contact"></a>
+## 👤 Author & Contact
+
+<a id="support"></a>
+## ⭐ Support
 
 ---
 
